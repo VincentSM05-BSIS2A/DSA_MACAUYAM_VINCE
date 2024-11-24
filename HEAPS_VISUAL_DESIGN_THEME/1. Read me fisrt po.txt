@@ -1,0 +1,11 @@
+iNFORMATION ABOUT AND NEEDED TO RUN Galactic Cargo Management
+
+1. The Full Game Code is Named "Main game2.cpp".
+2. We used VS 2022 Compiler coding "Galactic Cargo Management" on this activity, it is essential that all the file is located in all-in one folders. 
+
+How to setup SFML in Visual Studio in 5 minutes. Fully Explained.
+https://www.youtube.com/watch?v=lFzpkvrscs4&t=218s&ab_channel=EOD-Ethan
+
+Video of the Activity: Design Your Heap Challenge Output of the "Galactic Cargo Management".
+https://drive.google.com/file/d/1uk5h9e7luIkjRwGf0z5XRkqfGBX4ekT9/view?usp=drive_link
+
